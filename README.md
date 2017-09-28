@@ -1,6 +1,6 @@
 # Adv2
 
-This is the seconde version of the home website for [Absorbing Design](http://absorbingdesign.com). Absorbing Design is a web development business catering to businesses, non-goverment organizations, personalities, events, and other web-based projects.
+This is the second version of the home website for [Absorbing Design](http://absorbingdesign.com), a web development business catering to businesses, non-goverment organizations, personalities, events, and other web-based projects.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
